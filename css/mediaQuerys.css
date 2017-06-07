@@ -1,10 +1,10 @@
 @media (max-width: 1200px){
     .logo {
-        padding-top: 160%;
+        padding-top: 230%;
     }
 }
 
-@media (max-width: 1024px){
+@media (max-width: 1024px){ 
     .logo {
         padding-top: 185%;
     }
@@ -18,7 +18,7 @@
 
 @media (max-width: 480px){
     .logo {
-        padding-top: 245%;
+        padding-top: 155%;
     }
 }
 

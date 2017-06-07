@@ -1,10 +1,48 @@
-html, body, #home-video{
+html, body, #signIn-video{
   background-image: url(https://media.giphy.com/media/wkn1roFsQ5coE/giphy.gif);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
-body{
+body {
     height: 100vh;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+contenedor-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.btn-inLine {
+    margin-top: 150px;
+    border-radius: 7px;
+    padding: 8px 32px;
+    background-color: transparent;
+    border: solid 2px white;
+    font-family: "helvetica";
+    font-size: 130%;
+    font-weight: 100;
+    color: #fff;
+}
+
+.btn-gradient{
+    margin-top: 150px;
+    margin-left: 9px;
+    border-radius: 7px;
+    padding: 11px 32px;
+    border: none;
+    font-family: "helvetica";
+    font-size: 130%;
+    font-weight: 100;
+    color: #fff;
+    background-color: #ff00bf;
 }
