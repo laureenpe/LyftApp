@@ -1,7 +1,7 @@
 function cargarPagina(){
     setTimeout(function(){
-        location.href="views/home.html";
+        location.href="views/signInStyle.html";
       }, 2000)
 };
 
-$(document).ready(cargarPagina);
+$(document).ready(cargarPagina);  

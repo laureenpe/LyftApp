@@ -1,0 +1,10 @@
+html, body, #home-video{
+  background-image: url(https://media.giphy.com/media/wkn1roFsQ5coE/giphy.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+body{
+    height: 100vh;
+}
