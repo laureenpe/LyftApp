@@ -1,0 +1,10 @@
+.fondo {
+    background: radial-gradient(#ff00bf, #352384);
+    height: 100vh;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
